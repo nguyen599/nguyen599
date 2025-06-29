@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Manh
 
 - 🌱 I'm currently learning and working with Python, C++ and SQL.
-- 💼 I work as a AI Engineer.
+- 💼 I work as a AI Researcher.
 - 🚀 I'm experienced in:
   - **Languages:** Python, C++, SQL
   - **Frameworks:** Pytorch, Tensorflow
