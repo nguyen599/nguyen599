@@ -3,9 +3,9 @@
 - 🌱 I'm currently learning and working with Python, C++ and SQL.
 - 💼 I work as a AI Researcher.
 - 🚀 I'm experienced in:
-  - **Languages:** Python, C++, SQL
+  - **Languages:** Python, C++(Cuda), SQL
   - **Frameworks:** Pytorch, Tensorflow
-  - **Technical Skills:** AI Modeling, YOLO, GAN, Recommender System, Multi-Agent, Transformer, RAG, Vllm, Optimization, Problem solving
+  - **Technical Skills:** Machine Learning, Multi-Agent, Transformer, Optimization, Problem solving
 
 ## 🤝 Let's Connect
 
