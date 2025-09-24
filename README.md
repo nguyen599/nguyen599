@@ -11,6 +11,7 @@
 
 - Email: <pnvmanh2123@gmail.com>
 - GitHub: [nguyen599](https://github.com/nguyen599)
+- Twitter: [@nguyen_manh599](https://x.com/nguyen_manh599)
 - Linkedin: [Manh Nguyen](https://www.linkedin.com/in/manh-nguyen-ba4008281/)
 
 Feel free to explore my repositories and provide feedback. Let's code and learn together! 🚀
